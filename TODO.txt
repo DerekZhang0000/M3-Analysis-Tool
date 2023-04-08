@@ -1,0 +1,7 @@
+1. Change x axis to time
+2. Add slopes to data points
+3. Change sliders to be input theoretical time / length
+4. Add function to give us target length / time for placement we want to beat
+	Eliminate targets with both longer length and faster time
+5. Autonatically input (0 length, 60 seconds)
+	Add comment to change M3 0 length time to real time performance if end user wants
