@@ -13,6 +13,9 @@ A value of 2 is added to each score, making it a continuous value from 2 - 3.
    Calculate the placement for a hypothetical time and length
 
 # Notes:
+- The red point/slope is our hypothetical performance
+- The blue point/slope is our known performance
+- The green point/slope is the best performance
 - The slope of each competitor's point is equivalent to its performance ratio.
 - The slope of our own point is calculated using our zero-length speed and our known performance point.
 - You can save and load the data as a CSV
@@ -20,8 +23,13 @@ A value of 2 is added to each score, making it a continuous value from 2 - 3.
 
 # Screenshots:
 ![Screenshot 1](./screenshots/ss1.PNG)
+
 ![Screenshot 2](./screenshots/ss2.PNG)
+
 ![Screenshot 3](./screenshots/ss3.PNG)
+
 ![Screenshot 4](./screenshots/ss4.PNG)
+
 ![Screenshot 5](./screenshots/ss5.PNG)
+
 ![Screenshot 6](./screenshots/ss6.PNG)
