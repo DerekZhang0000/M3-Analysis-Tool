@@ -20,6 +20,7 @@ A value of 2 is added to each score, making it a continuous value from 2 - 3.
 - The slope of our own point is calculated using our zero-length speed and our known performance point.
 - You can save and load the data as a CSV
 - Trying to achieve a placement that is not possible will yield an error
+- You can use the TEST button to populate the tool with dummy values
 
 # Screenshots:
 ![Screenshot 1](./screenshots/ss1.PNG)
