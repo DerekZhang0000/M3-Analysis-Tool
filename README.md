@@ -19,9 +19,9 @@ A value of 2 is added to each score, making it a continuous value from 2 - 3.
 - Trying to achieve a placement that is not possible will yield an error
 
 # Screenshots:
-![Screenshot 1](./screenshots/ss1)
-![Screenshot 2](./screenshots/ss2)
-![Screenshot 3](./screenshots/ss3)
-![Screenshot 4](./screenshots/ss4)
-![Screenshot 5](./screenshots/ss5)
-![Screenshot 6](./screenshots/ss6)
+![Screenshot 1](./screenshots/ss1.png)
+![Screenshot 2](./screenshots/ss2.png)
+![Screenshot 3](./screenshots/ss3.png)
+![Screenshot 4](./screenshots/ss4.png)
+![Screenshot 5](./screenshots/ss5.png)
+![Screenshot 6](./screenshots/ss6.png)
