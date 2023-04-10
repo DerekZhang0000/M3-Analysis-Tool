@@ -8,7 +8,7 @@ A value of 2 is added to each score, making it a continuous value from 2 - 3.
 # How to Use:
 1. Input known time, length, and score
 2. Input competitor times and scores
-* The UI should automatically calculate your placement
+   * The UI should automatically calculate your placement
 3. Calculate time and length necessary to achieve a specific placement OR
    Calculate the placement for a hypothetical time and length
 
