@@ -24,14 +24,25 @@ A value of 2 is added to each score, making it a continuous value from 2 - 3.
 
 # Screenshots:
 First load
+
 ![Screenshot 1](./screenshots/ss1.PNG)
+
 Populating dummy values using TEST
+
 ![Screenshot 2](./screenshots/ss2.PNG)
+
 Calculating required length and time for target placement
+
 ![Screenshot 3](./screenshots/ss3.PNG)
+
 Calculating placement for target length and time
+
 ![Screenshot 4](./screenshots/ss4.PNG)
+
 Data saved to CSV
+
 ![Screenshot 5](./screenshots/ss5.PNG)
+
 Error message for impossible placement
+
 ![Screenshot 6](./screenshots/ss6.PNG)
